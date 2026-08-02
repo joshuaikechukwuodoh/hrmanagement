@@ -32,5 +32,5 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["src"]
+  "include": ["src", "index.ts", "drizzle.config.ts", "scripts/**/*.ts"]
 }
